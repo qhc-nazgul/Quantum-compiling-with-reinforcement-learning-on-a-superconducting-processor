@@ -1,6 +1,6 @@
 ### This repository provides codes and implementation details of the manuscript titled *_Quantum compiling with reinforcement learning on a superconducting processor_*.
 
--**Contact email: ** <`qhc.statistics@gmail.com`>
+-**Contact email:** `qhc.statistics@gmail.com` ([contact us](mailto:qhc.statistics@gmail.com))
 
 -**2025-03-27:** Our manuscript has not  published. The codes and other details are not uploaded.
 
